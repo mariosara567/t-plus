@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tak Berkategori &#8211; T-Plus</title>
+	<atom:link href="https://mariosara567.github.io/t-plus/category/tak-berkategori/feed/?simply_static_page=36622" rel="self" type="application/rss+xml" />
+	<link>https://mariosara567.github.io/t-plus</link>
+	<description>Transfer Pulsa Antar Provider</description>
+	<lastBuildDate>Wed, 04 Jan 2023 13:36:43 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://mariosara567.github.io/t-plus/wp-content/uploads/2022/12/Black-White-Elegant-Minimalist-Monogram-Logo-1-1.png</url>
+	<title>Tak Berkategori &#8211; T-Plus</title>
+	<link>https://mariosara567.github.io/t-plus</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Beranda</title>
+		<link>https://mariosara567.github.io/t-plus/2022/12/12/beranda/</link>
+					<comments>https://mariosara567.github.io/t-plus/2022/12/12/beranda/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 12 Dec 2022 09:02:26 +0000</pubDate>
+				<category><![CDATA[Tak Berkategori]]></category>
+		<guid isPermaLink="false">https://mariosara567.github.io/t-plus/?p=1</guid>
+
+					<description><![CDATA[Mulai]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-7c2c9c6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7c2c9c6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ea165d8" data-id="ea165d8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-34c3e0e elementor-align-center elementor-invisible elementor-widget elementor-widget-button" data-id="34c3e0e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://mariosara567.github.io/t-plus/my-account/" class="elementor-button-link elementor-button elementor-size-xl elementor-animation-grow-rotate" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Mulai</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://mariosara567.github.io/t-plus/2022/12/12/beranda/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
